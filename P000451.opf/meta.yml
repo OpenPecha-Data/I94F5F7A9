@@ -1,16 +1,17 @@
-id: opecha:P000451
+id: P000451
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG1084
   title: ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་འགྲེལ་ཚིག་དོན་སྙིང་པོ་གསལ་བའི་མེ་ལོང་
-  volume:
+  author: ''
+  volumes:
     56a1cf6bd1bd45cc99a2686a2fb34107:
       image_group_id: I1KG1091
       title: Volume 1 of sher phyin mngon rtogs rgyan 'grel tshig don snying po gsal
         ba'i me long
       volume_number: 1
       total_pages: 680
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་འགྲེལ་ཚིག་དོན་སྙིང་པོ་གསལ་བའི་མེ་ལོང་
   author: ''
