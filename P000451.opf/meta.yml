@@ -1,5 +1,7 @@
 id: P000451
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG1084
   title: ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་འགྲེལ་ཚིག་དོན་སྙིང་པོ་གསལ་བའི་མེ་ལོང་
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 680
       base_file: v001.txt
-ebook_metadata:
-  title: ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་འགྲེལ་ཚིག་དོན་སྙིང་པོ་གསལ་བའི་མེ་ལོང་
-  author: ''
-  sku: P000451
-  cover: cover.jpg
-  layers:
-  - pagination
